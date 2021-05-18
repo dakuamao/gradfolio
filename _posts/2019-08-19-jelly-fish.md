@@ -1,27 +1,13 @@
 ---
 layout: post
-title:  A Jelly-Fish
+title:  第二完成人-孙赵勇
 ---
 
-Visible, invisible,  
-A fluctuating charm,  
-An amber-colored amethyst  
-Inhabits it; your arm  
-Approaches, and  
-It opens and  
-It closes;  
-You have meant  
-To catch it,  
-And it shrivels;  
-You abandon  
-Your intent—  
-It opens, and it  
-Closes and you  
-Reach for it—  
-The blue  
-Surrounding it  
-Grows cloudy, and  
-It floats away  
-From you.  
+1. 完成“课程思政”示范课程《经济学》教改项目，将微观经济学理论与；对教学目标和教学内容进行调整，在教学环节融入社会主义核心价值观，将德育教育渗透贯穿于教育和教学的全过程；
+2. .校级在线开放课程《计量经济学》MOOC主讲教师，对MOOC进行了全新的设计，推进了传统教学方法与现代网络教学的结合；
+3.主编《计量经济学》第三版教材，弥补了目前计量经济学教材中偏重数理统计教学，忽视理论建模和案教学的问题，该教材为中国人民大学出版社出版，在业界受到广泛好评； 
+4.全面负责经济学类课程实验设计，实现了经济学类课程与实验设计教学体系的融合，建成经济学实验教学案例和数据共享平台；
+5.主持并完成《经济学类课程教学中的实验设计》等校级教学研究项目多项，撰写并发表教改论文多篇。
 
-[by Marianne Moore](https://poets.org/anthology/poems-your-poetry-project-public-domain)
+
+[by Zhao-Yong Sun](https://dakuamao.github.io/kcsz.com/)
