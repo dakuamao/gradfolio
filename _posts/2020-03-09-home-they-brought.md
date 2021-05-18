@@ -1,26 +1,13 @@
 ---
 layout: post
-title: Home They Brought Her Warrior Dead 
+title: 第一完成人-扈文秀 
 ---
 
-Home they brought her warrior dead:  
-She nor swooned, nor uttered cry:  
-All her maidens, watching, said,  
-'She must weep or she will die.'  
+1. 工商管理博士一级学科带头人，已将工商管理专业建设为省级重点学科和国家级特色专业建设点，为教学成果推广和应用提供强力支持。
+2.全面负责经管类专业教学团队建设、培养方案制定、课程体系设计、MOOC课程群建设和课程思政教改项目建设等工作，主持整个经管类学科本科教育的教案设计，形成寓思政教育于专业培养的德育、才育并重的一体特色课程群。
+3.主讲International Finance（双语）课程获省级精品课程，微观经济学课程获校级精品课程；2020年获校级教学名师奖。
+4.负责专业课程思政内容更新，教学方法研究、教学资源共享等工作。主编《投资学》教材，实现思政教育精准融入专业教材。
+5.主持和参与完成校级教改项目多项，作为主要成员参与省级教改项目1项，获得省级教学成果奖2等奖2项；
+6.多次指导本科生参加各类大学生创新创业项目，指导本科生参加“挑战杯”，获国家三等奖1项。 
 
-Then they praised him, soft and low,  
-Called him worthy to be loved,  
-Truest friend and noblest foe;  
-Yet she neither spoke nor moved.  
-
-Stole a maiden from her place,  
-Lightly to the warrior stept,  
-Took the face-cloth from the face;  
-Yet she neither moved nor wept.  
-
-Rose a nurse of ninety years,  
-Set his child upon her knee—  
-Like summer tempest came her tears—  
-'Sweet my child, I live for thee.'  
-
-[by Alfred Tennyson](https://en.wikisource.org/wiki/Home_They_Brought_Her_Warrior_Dead)
+[by Zhao-Yong Sun](https://dakuamao.github.io/kcsz.com/)
